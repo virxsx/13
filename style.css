@@ -118,4 +118,31 @@ menu ul {
     color: #fff;
     background-color: #39930d;
     margin: -15px;
+    margin-top: 30px;
+}
+html,
+body {
+    height: 100%;
+}
+
+#wrap {
+    min-height: 100%;
+}
+
+main {
+    padding-bottom: 120px;
+    /*Высота футера*/
+}
+
+footer {
+    background-color: #39930d;
+    margin-top: -9px;
+    /*Минус Высота футера*/
+    height: 100px;
+    padding: 15px 15px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #39930d;
+        margin: -15px;
+      
 }
