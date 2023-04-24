@@ -139,7 +139,7 @@ footer {
     margin-top: -9px;
     /*Минус Высота футера*/
     height: 100px;
-    padding: 15px 15px;
+    padding: 0px -15px;
         font-size: 14px;
         color: #fff;
         background-color: #39930d;
